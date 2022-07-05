@@ -1,7 +1,8 @@
 #include"main.h"
 
 /**
- * _isalpha - function to check if character is a letter both lowercase or uppercase
+ * _isalpha - function to check if character is a letter,
+ *            both lowercase and uppercase.
  *
  * @c: takes input from other functions.
  *
